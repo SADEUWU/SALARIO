@@ -1,4 +1,6 @@
 # SALARIO
-pesquisa de salario de cientista de dados com base em planilha disponibilizada pelo kaggle 
+pesquisa de salario de cientista de dados com base em planilha disponibilizada pelo kaggle
 
-"https://www.kaggle.com/datasets/ruchi798/data-science-job-salaries"
+- no link a baixo vc podera ver os processos passados por min e meu story telling 
+
+"https://www.kaggle.com/code/sadeuwu/salario"
